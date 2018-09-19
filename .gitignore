@@ -102,3 +102,19 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Temp file used by marker
+temp
+temp.c
+
+#Files in the assignments
+Assignments/A1/*
+Assignments/A2/*
+Assignments/A3/*
+Assignments/A4/*
+Assignments/A5/*
+Assignments/A6/*
+Assignments/A7/*
+Assignments/A8/*
+Assignments/A9/*
+Assignments/A10/*
